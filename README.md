@@ -1,5 +1,5 @@
 # DynamicBiasedRC
-Scripts for the study: "Improve the prediction stability of reservoir computing by means of dynamic structural bias" by  Jieyi Liu, Kaiwen Jiang, Jingfang Fan and Yong Zou.
+Scripts for the study: "Improving the prediction stability of reservoir computing by means of dynamic structural bias" by  Jieyi Liu, Kaiwen Jiang, Jingfang Fan and Yong Zou.
 
 School of Physics and Electronic Science, East China Normal University, Shanghai 200062, China
 
