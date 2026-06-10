@@ -6,7 +6,9 @@ School of Physics and Electronic Science, East China Normal University, Shanghai
 Contact: yzou@phy.ecnu.edu.cn
 
 Scripts for the study: "Improving the prediction stability of reservoir computing by means of dynamic structural bias" by  Jieyi Liu, Kaiwen Jiang, Jingfang Fan and Yong Zou.
+
 Physical Review Research  8, 023114, 2026.
+
 DOI: 10.1103/5nbr-bqxb
 
 Files are organized as follows:  
